@@ -7,4 +7,5 @@ The project is done in Microsoft SQL server and presented in Power BI. The data 
 # Data Visualization
 Data visualization was done in Microsoft Power BI
 
-[Dashboard.pdf](https://github.com/user-attachments/files/17075350/Dashboard.pdf)
+![Dashboard SS](https://github.com/user-attachments/assets/d60f7853-e28d-4929-a357-6afd2c9eae86)
+
