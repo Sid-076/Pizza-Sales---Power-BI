@@ -27,3 +27,9 @@ Data visualization was done in Microsoft Power BI
  5) Total Pizzas Sold by Pizza Category
  6) Top 5 Best Sellers by Total Pizzas Sold
  7) Bottom 5 Worst Sellers by Total Pizzas Sold
+
+### Filters and Slicers
+
+ 1) Date Filter: Allow users to filter based on a specific time period.
+ 2) Pizza Size Filter: Filter based on Pizza size.
+ 3) Pizza Type Filter: Filter based on Pizza types.
