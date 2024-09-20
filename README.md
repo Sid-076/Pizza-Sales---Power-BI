@@ -9,3 +9,19 @@ Data visualization was done in Microsoft Power BI
 
 ![Dashboard SS](https://github.com/user-attachments/assets/d60f7853-e28d-4929-a357-6afd2c9eae86)
 
+# QUESTIONS TO BE ANSWERED:
+# KPIs
+Total Revenue (How much money did we make this year?)
+Average Order Value
+Total Pizzas Sold
+Total Orders
+Average Pizzas per Order
+
+#QUESTIONS TO ANSWER
+Daily Trends for Total Orders
+Hourly Trend for Total Orders
+Percentage of Sales by Pizza Category
+Percentage of Sales by Pizza Size
+Total Pizzas Sold by Pizza Category
+Top 5 Best Sellers by Total Pizzas Sold
+Bottom 5 Worst Sellers by Total Pizzas Sold
