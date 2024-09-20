@@ -11,13 +11,13 @@ Data visualization was done in Microsoft Power BI
 
 # QUESTIONS TO BE ANSWERED:
 # KPIs
-Total Revenue (How much money did we make this year?)
-Average Order Value
-Total Pizzas Sold
-Total Orders
-Average Pizzas per Order
+1.Total Revenue (How much money did we make this year?)
+1.Average Order Value
+1.Total Pizzas Sold
+1.Total Orders
+1.Average Pizzas per Order
 
-#QUESTIONS TO ANSWER
+# QUESTIONS TO ANSWER
 Daily Trends for Total Orders
 Hourly Trend for Total Orders
 Percentage of Sales by Pizza Category
